@@ -134,3 +134,7 @@
       (server/create-server)
       (server/start))
   (println "server running in port 3000"))
+
+(comment
+  (start))
+
